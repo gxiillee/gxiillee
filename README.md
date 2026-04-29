@@ -22,7 +22,7 @@
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,php,docker,git,linux,mysql,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,python,docker,git,linux,mysql,vscode,postgres" />
 </p>
 
 <hr>
