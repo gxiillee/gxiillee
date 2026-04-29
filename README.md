@@ -10,10 +10,10 @@
     Transformando cafeína y kilómetros en soluciones digitales.
   </p>
 
-  <a href="mailto:TU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:24guille08@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://discord.com/users/TU_USUARIO_DISCORD_AQUI">
+  <a href="https://discord.com/users/gxiillee__">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
