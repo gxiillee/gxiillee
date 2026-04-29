@@ -38,4 +38,4 @@
 <hr>
 
 ### 📂 Proyectos Destacados
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dzeledonj_create&repo=medicos_mundo&theme=radical)](https://github.com/dzeledonj-create/medicos_mundo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gxiillee&repo=medicos_mundo&theme=radical)](https://github.com/gxiillee/medicos_mundo)
