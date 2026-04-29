@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,react,html,css,git,docker" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,php,docker" />
 </p>
 
 ### 📊 Mis Estadísticas de GitHub
