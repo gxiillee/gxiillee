@@ -27,15 +27,6 @@
 
 <hr>
 
-### 🚀 Mi Actividad en GitHub (Dinámica y Real)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gxiillee&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Guille">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gxiillee&theme=radical" alt="Racha de actividad de Guille">
-</p>
-
-<hr>
-
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
