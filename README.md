@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-readme.png" alt="Banner de Guille - Yamaha R7 y Tech" width="100%">
+  <img src="./banner.png" alt="Banner de Guille - Yamaha R7 y Tech" width="100%">
 
   <h1>Hey! Soy Guille 🏍️</h1>
 
