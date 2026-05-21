@@ -37,9 +37,9 @@
 ### 🚀 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/gxiillee/TU_REPOSITORIO_1">    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_1&theme=dark&hide_border=true" alt="Proyecto 1" />
+  <a href="https://github.com/gxiillee/barber_lah">    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_1&theme=dark&hide_border=true" alt="Proyecto 1" />
   </a>
-  <a href="https://github.com/gxiillee/TU_REPOSITORIO_2">
+  <a href="https://github.com/gxiillee/andres_manjon">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_2&theme=dark&hide_border=true" alt="Proyecto 2" />
   </a>
 </p>
