@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./banner.png" alt="Banner de Guille - Yamaha R7 y Tech" width="100%">
 
-
   <h1>Hey! Soy Guille 🏍️</h1>
 
   <img src="https://komarev.com/ghpvc/?username=gxiillee&label=Perfil%20Visto&color=0e75b6&style=flat" alt="visitas">
@@ -30,8 +29,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=gxiillee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&v=1" alt="Stats de Guille" />
-  <img src="https://streak-stats.demolab.com/?user=gxiillee&theme=dark&hide_border=true&v=1" alt="Racha de Guille" />
+  <img src="https://github-readme-stats.shion.dev/api?username=gxiillee__&theme=dark&hide_border=true&include_all_commits=false&count_private=false#v1" alt="Stats de Guille" />
+  <img src="https://streak-stats.demolab.com/?user=gxiillee__&theme=dark&hide_border=true#v1" alt="Racha de Guille" />
 </p>
 
 <hr>
@@ -39,13 +38,13 @@
 ## 🚀 Proyectos Destacados
 <p align="center">
   <a href="https://github.com/dzeledonj-create/medicos_mundo">   
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo&theme=dark&hide_border=true&v=1" alt="Médicos del Mundo" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo&theme=dark&hide_border=true#v1" alt="Médicos del Mundo" />
   </a>
   <a href="https://github.com/gxiillee/barber_lah">   
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=barber_lah&theme=dark&hide_border=true&v=1" alt="Barber La H" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=barber_lah&theme=dark&hide_border=true#v1" alt="Barber La H" />
   </a>
   <a href="https://github.com/gxiillee/andres_manjon">   
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=andres_manjon&theme=dark&hide_border=true&v=1" alt="Andres Manjón" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=andres_manjon&theme=dark&hide_border=true#v1" alt="Andres Manjón" />
   </a>
 </p>
 
