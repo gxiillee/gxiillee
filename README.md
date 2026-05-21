@@ -34,12 +34,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gxiillee__&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🚀 Proyectos Destacados
+### 🛠️ Mis Kilómetros de Código (Proyectos)
 
-<p align="center">
-  <a href="https://github.com/gxiillee/barber_lah">    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_1&theme=dark&hide_border=true" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/gxiillee/andres_manjon">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_2&theme=dark&hide_border=true" alt="Proyecto 2" />
-  </a>
-</p>
+| Proyecto | Descripción | Tecnologías | Link |
+| :--- | :--- | :--- | :--- |
+| **🏍️ MotoApp** | Aplicación para trackear rutas y mantenimiento de la Yamaha R7. | `Python`, `MySQL` | [Ver Repositorio](https://github.com/gxiillee/barber_lah) |
+| **☕ DevCoffee** | API para gestión de cafeterías con Docker automatizado. | `PHP`, `Docker`, `Postgres` | [Ver Repositorio](https://github.com/gxiillee/tu-repo2) |
