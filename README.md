@@ -34,11 +34,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gxiillee__&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🚀 Proyectos Destacados
-
-
-
 <p align="center">
   <a href="https://github.com/dzeledonj-create/medicos_mundo">   
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo&theme=dark&hide_border=true" alt="Médicos del Mundo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gxiillee/barber_lah">   
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=barber_lah&theme=dark&hide_border=true" alt="Barber La H" />
   </a>
 </p>
