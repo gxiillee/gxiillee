@@ -37,14 +37,14 @@
 
 ## 🚀 Proyectos Destacados
 <p align="center">
-  <a href="https://github.com/dzeledonj-create/medicos_mundo">   
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo&theme=dark&hide_border=true#v1" alt="Médicos del Mundo" />
+  <a href="https://github.com/dzeledonj-create/medicos_mundo">    
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo&theme=dark&hide_border=true#v2" alt="Médicos del Mundo" />
   </a>
-  <a href="https://github.com/gxiillee/barber_lah">   
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=barber_lah&theme=dark&hide_border=true#v1" alt="Barber La H" />
+  <a href="https://github.com/gxiillee/barber_lah">    
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=barber_lah&theme=dark&hide_border=true#v2" alt="Barber La H" />
   </a>
-  <a href="https://github.com/gxiillee/andres_manjon">   
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=andres_manjon&theme=dark&hide_border=true#v1" alt="Andres Manjón" />
+  <a href="https://github.com/gxiillee/andres_manjon">    
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=andres_manjon&theme=dark&hide_border=true#v2" alt="Andres Manjón" />
   </a>
 </p>
 
