@@ -20,33 +20,36 @@
 
 <hr>
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,html,css,python,docker,postgres,mysql" />
 </p>
 
 <hr>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=gxiillee&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Stats de Guille" />
+  <img src="https://streak-stats.demolab.com/?user=gxiillee&theme=dark&hide_border=true" alt="Racha de Guille" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gxiillee&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gxiillee&theme=dark&hide_border=true)<br/>
+<hr>
 
-### 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados
 <p align="center">
   <a href="https://github.com/dzeledonj-create/medicos_mundo">   
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo&theme=dark&hide_border=true" alt="Médicos del Mundo" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/gxiillee/barber_lah">   
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=barber_lah&theme=dark&hide_border=true" alt="Barber La H" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/gxiillee/andres_manjon">   
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=andres_manjon&theme=dark&hide_border=true" alt="Andres Manjón" />
   </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <sub>🏁 <i>¡Gas y buen código!</i> 🏁</sub>
 </p>
