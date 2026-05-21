@@ -38,15 +38,7 @@
 
 
 <p align="center">
-
-  <a href="https://github.com/dzeledonj-create/medicos_mundo">    <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo_1&theme=dark&hide_border=true" alt="Proyecto 1" />
-
+  <a href="https://github.com/dzeledonj-create/medicos_mundo">   
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=dzeledonj-create&repo=medicos_mundo&theme=dark&hide_border=true" alt="Médicos del Mundo" />
   </a>
-
-  <a href="https://github.com/gxiillee/TU_REPOSITORIO_2">
-
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_2&theme=dark&hide_border=true" alt="Proyecto 2" />
-
-  </a>
-
 </p>
