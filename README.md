@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=gxiillee__&theme=dark&hide_border=true&include_all_commits=false&count_private=false#v1" alt="Stats de Guille" />
+  <img src="https://github-readme-stats.shion.dev/api?username=gxiillee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&v=1" alt="Stats de Guille" />
   <img src="https://streak-stats.demolab.com/?user=gxiillee__&theme=dark&hide_border=true#v1" alt="Racha de Guille" />
 </p>
 
