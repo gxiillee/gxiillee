@@ -32,3 +32,14 @@
 ![](https://github-readme-stats.shion.dev/api?username=gxiillee&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=gxiillee&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gxiillee__&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+### 🚀 Proyectos Destacados
+
+<p align="center">
+  <a href="https://github.com/gxiillee/TU_REPOSITORIO_1">    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_1&theme=dark&hide_border=true" alt="Proyecto 1" />
+  </a>
+  <a href="https://github.com/gxiillee/TU_REPOSITORIO_2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=TU_REPOSITORIO_2&theme=dark&hide_border=true" alt="Proyecto 2" />
+  </a>
+</p>
