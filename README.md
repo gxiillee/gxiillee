@@ -45,3 +45,9 @@
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=barber_lah&theme=dark&hide_border=true" alt="Barber La H" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/gxiillee/andres_manjon">   
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gxiillee&repo=andres_manjon&theme=dark&hide_border=true" alt="Andres Manjón" />
+  </a>
+</p>
